@@ -9,10 +9,10 @@ We can also use media queries with flexbox.
 You can see some screenshots and gifs of the website that I created.
 
 ### ***Original Screen Size***
-<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/a5988526-a365-41f5-a098-e2cccc2c8837" height="550"><br />
+<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/a5988526-a365-41f5-a098-e2cccc2c8837"><br />
 ---
 ### ***Smaller Screen Size***
-<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/10ccfae4-9843-41d7-9f92-cad9e046701e" height="550"><br />
+<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/10ccfae4-9843-41d7-9f92-cad9e046701e"><br />
 ---
 ### ***More Smaller Screen Size***
 <img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/e99d1761-160d-43e3-9070-baa52579a207" height="550"><br />
