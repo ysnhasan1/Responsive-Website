@@ -1,0 +1,109 @@
+/* TOGG PROJECT (style.css) */
+
+#logo {
+    /* to center */
+    width: 6%;
+    margin-left: 47%;
+}
+
+.togg-container {
+    /* For Responsive Website */
+    display: flex;
+
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+    /* !!! */
+    flex-wrap: wrap;
+}
+
+.div-color-type {
+    /* items of container */
+    flex: 1;
+    max-width: 350px;
+    min-width: 350px;
+
+    height: 380px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: gainsboro;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "Martian Mono", monospace;
+}
+
+#h2-anadolu {
+    color: red;
+}
+
+#h2-pamukkale {
+    color: white;
+}
+
+#h2-gemlik {
+    color: navy;
+}
+
+#h2-oltu {
+    color: black;
+}
+
+#h2-kapadokya {
+    color: dimgrey;
+}
+
+#h2-kula {
+    color: RGB(64, 64, 64);
+}
+
+p {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.car {
+    /* car images */
+    width: 250px;
+    height: 170px;
+    border-radius: 10px;
+}
+
+#car-anadolu {
+    border: 1px solid red;
+}
+
+#car-pamukkale {
+    border: 1px solid white;
+}
+
+#car-gemlik {
+    border: 1px solid navy;
+}
+
+#car-oltu {
+    border: 1px solid black;
+}
+
+#car-kapadokya {
+    border: 1px solid dimgrey;
+}
+
+#car-kula {
+    border: 1px solid RGB(64, 64, 64);
+}
+
+@media (max-width: 765px) {
+    .div-color-type {
+        max-width: none;
+    }
+}
+
+.div-footer {
+    text-align: center;
+    color: white;
+    background-color: #1f2937;
+}
