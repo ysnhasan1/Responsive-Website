@@ -16,7 +16,7 @@ You can see some screenshots and gifs of the website I created.
 ![2](https://github.com/ysnhasan1/Responsive-Website/assets/102024926/10ccfae4-9843-41d7-9f92-cad9e046701e)
 ---
 ##### ***Gif 1***
-<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/e99d1761-160d-43e3-9070-baa52579a207" height="400">
+<img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/e99d1761-160d-43e3-9070-baa52579a207" height="400"><br />
 ---
 ##### ***Gif 2***
 <img src="https://github.com/ysnhasan1/Responsive-Website/assets/102024926/6d45a435-9457-4403-8b58-284974ecac8f" height="400">
