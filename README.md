@@ -1,8 +1,8 @@
 
 #### Responsive-Website
-
-Creating a Responsive Website with Flexbox and Media Queries.
 ---
+Creating a Responsive Website with Flexbox and Media Queries.
+
 In this project, I wanted to show that flexbox is a great option for building responsive website.
 With flexbox, which has a very simple structure, we can create websites and make them responsive to different screen sizes.
 We can also use media queries with flexbox.
